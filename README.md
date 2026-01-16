@@ -44,4 +44,5 @@ That’s it. No cookies. No JavaScript. No feelings.
 
 ## 🧪 Usage
 
+```bash
 python cli_browser.py https://example.com
